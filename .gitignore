@@ -1,2 +1,4 @@
 errores.log
 node_modules/
+upload/
+.env
