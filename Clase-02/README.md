@@ -34,4 +34,14 @@ Los archivos que quiero hacer commit deben estar un seguimiento. si los archivos
     git commit -am "Mensaje"
 
 
+### Para enmendar un commit 
+Agrego los archivos que me olvidé
+    git add .clase-02/cualquiera.md
+y luego hago el amend
+
+    git commit --amend
+
+
+
+
 
