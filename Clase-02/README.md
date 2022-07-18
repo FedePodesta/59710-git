@@ -42,6 +42,16 @@ y luego hago el amend
     git commit --amend
 
 
+## Status de archivos
+
+* UNTRACKED: Archivos que nos e agregaron al index (staging area) o sea archivos que estan en el working directory (WD)
+
+* Unmodified: Son Archivos que ya estan en el repositorio. Osea que ya tienen una foto.
+
+* Modified: Son archivos que ya estan en el repositorio pero respecto al working directory tienen modificaciones detectadas por git. O sea compara la foto del repositorio con el WD.
+
+* Staged: Archivos que estan confirmados para ser un proximo comit.
+
 
 
 
