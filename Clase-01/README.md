@@ -71,5 +71,7 @@ LOCAL : Configura usuario y mail para el repositorio actual
 
 ### GIT LOG
 > Me muestra las fotos o los commits que tengo en el repositorio
+    git.log
+    git.log --online
 
 
