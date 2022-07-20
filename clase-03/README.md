@@ -30,9 +30,9 @@ combinar losc ambios de una rama con otra. Normalmente en un nuevo commit
 
     git merge <nombre-rama>
     git merge dev
-### --------------- ###
+
 ### Tipos de Fusiones / MERGE
-### --------------- ###
+
 
 * Fast-Forward(Union automatica. Git no necesita de la asistencia del usuario)
 
@@ -40,4 +40,3 @@ combinar losc ambios de una rama con otra. Normalmente en un nuevo commit
 
 * Manual (Conflictos) Ocurre cuando hay modificaciones en las mismas lineas de un archivo o varios archivos
 
-### -------------------------
