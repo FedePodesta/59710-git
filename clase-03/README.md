@@ -31,6 +31,8 @@ combinar losc ambios de una rama con otra. Normalmente en un nuevo commit
     git merge <nombre-rama>
     git merge dev
 
+### Abortar la fusion (ELMERGE)
+
 ### Tipos de Fusiones / MERGE
 
 
@@ -40,8 +42,3 @@ combinar losc ambios de una rama con otra. Normalmente en un nuevo commit
 
 * Manual (Conflictos) Ocurre cuando hay modificaciones en las mismas lineas de un archivo o varios archivos
 
-<<<<<<< HEAD
-## AGrego otra cosa nueva en la rama master
-=======
-## Esto es algo nuevo que tengo que probar. (rama conflicto)
->>>>>>> rama-conflicto
