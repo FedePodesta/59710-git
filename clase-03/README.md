@@ -40,3 +40,4 @@ combinar losc ambios de una rama con otra. Normalmente en un nuevo commit
 
 * Manual (Conflictos) Ocurre cuando hay modificaciones en las mismas lineas de un archivo o varios archivos
 
+## Esto es algo nuevo que tengo que probar. (rama conflicto)
