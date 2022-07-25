@@ -18,6 +18,11 @@
     git branch -d <nombre-rama>
     git branch -d dev
 
+> Para borrar una rama remota
+
+        git push  origin --delete  <nombre-rama-remota>
+        git push origin --delete dev
+
 > Para forzar el borrado de una ramas
 recuerden que ester flag me sirve para confirmar el borrado de una rama que no fue fusionada con ninguna otra.
 
