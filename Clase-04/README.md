@@ -82,4 +82,6 @@ NO. solo estan en el repositorio local.No se pueden subir al remoto.
 *Github Desktop : https://desktop.github.com
 
 
-## Buenas prácticas para generar 
+## Buenas prácticas para generar mensajes de commits
+
+https://medium.com/@jmz12/buenas-pr%c3%a1cticas-para-comits-5eb4c86b9a47
