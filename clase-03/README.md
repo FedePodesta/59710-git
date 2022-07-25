@@ -18,10 +18,13 @@
     git branch -d <nombre-rama>
     git branch -d dev
 
+<<<<<<< HEAD
 Para crear una rama y moverse a ella
 
     git switch -c <nombre-rama>
     git switch -c dev
+=======
+>>>>>>> rama-cherry-pick
 > Para borrar una rama remota
 
         git push  origin --delete  <nombre-rama-remota>
@@ -51,6 +54,3 @@ combinar losc ambios de una rama con otra. Normalmente en un nuevo commit
 
 * Manual (Conflictos) Ocurre cuando hay modificaciones en las mismas lineas de un archivo o varios archivos
 
-# Hola soy una linea que sera un conflicto (rama master)
-
-# Soy una molestia, voy a generar un conflicto (rama conflicto)
