@@ -33,3 +33,23 @@ git config --global alias.s "status --short"
 ## Para quitar un alias
 
     git config --global --unset alias.s
+
+## GIT STASH
+Es construido basado en una estructura de datos conocida como pila.
+
+> ¿Qué me permite el stash?
+
+Me permite registrar temporalmente los cambios del working directory y el stagin AREA.
+
+
+### Crear un stash
+
+    git stash
+
+### Listar los Stash
+
+    git stash list
+
+### Recuperar un stash
+
+**NOTA:** si el stash que estoy tratando de recuperar genera un conflicto con mi codigo, o sea con el codigo que esta en el working directory. Me va a dejar en la caja de stash el stash. Si no hay conflictos, borra el stash.

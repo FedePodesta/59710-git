@@ -18,13 +18,10 @@
     git branch -d <nombre-rama>
     git branch -d dev
 
-<<<<<<< HEAD
 Para crear una rama y moverse a ella
 
     git switch -c <nombre-rama>
     git switch -c dev
-=======
->>>>>>> rama-cherry-pick
 > Para borrar una rama remota
 
         git push  origin --delete  <nombre-rama-remota>
@@ -34,7 +31,7 @@ Para crear una rama y moverse a ella
 recuerden que ester flag me sirve para confirmar el borrado de una rama que no fue fusionada con ninguna otra.
 
     git branch -D <nombre-rama>
-    git branch D dev
+    git branch -D dev
 
 ## GIT MERGE (fusiones)
 combinar losc ambios de una rama con otra. Normalmente en un nuevo commit
