@@ -80,3 +80,6 @@ NO. solo estan en el repositorio local.No se pueden subir al remoto.
 * Git Kraken: hhtps://www.gitkraken.com/
 
 *Github Desktop : https://desktop.github.com
+
+
+## Buenas prácticas para generar 
