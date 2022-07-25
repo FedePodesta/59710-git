@@ -41,6 +41,10 @@ Es construido basado en una estructura de datos conocida como pila.
 
 Me permite registrar temporalmente los cambios del working directory y el stagin AREA.
 
+¿Puedo subir al remoto los stash?
+
+NO. solo estan en el repositorio local.No se pueden subir al remoto.
+
 
 ### Crear un stash
 
@@ -52,4 +56,27 @@ Me permite registrar temporalmente los cambios del working directory y el stagin
 
 ### Recuperar un stash
 
-**NOTA:** si el stash que estoy tratando de recuperar genera un conflicto con mi codigo, o sea con el codigo que esta en el working directory. Me va a dejar en la caja de stash el stash. Si no hay conflictos, borra el stash.
+**NOTA:** si el stash que estoy tratando de recuperar genera un conflicto con mi codigo, o sea con el codigo que esta en repositorio directory. Me va a dejar en la caja de stash que estoy sacando. Si no hay conflictos, borra el stash.
+
+
+### Borrar el ultimo stash
+
+    git stash drop
+    git stash drop stash @{4}
+
+
+### Si quiero aplicar un stash particular ( Sol oaplica, no borra lo aplicado)
+
+    git stash apply stash@{4}
+    git stash apply stash@{2}
+
+### Si quiero aplicar un stash en una rama nueva.
+
+    git stash branch <rama-a-aplicar-stash>
+
+
+## Versiones DESKTOP
+
+* Git Kraken: hhtps://www.gitkraken.com/
+
+*Github Desktop : https://desktop.github.com
