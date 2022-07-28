@@ -73,3 +73,19 @@ Por que pierdo lo que tenai dentro de los commits.
 
     git tag -a v1.0.0 <hash> -m "Version 1.0.0"
     git tag -a v1.0.0 f473780
+
+* a: anotado
+* m: mensaje
+
+> ver detalle de lso tags ,creador yu en que commit
+
+    git show v1.0.0
+
+> Para subir tags especificos (recomendada)
+
+    git push origin <nombre-tag>
+    git push origin v1.0.0
+
+> Para subir todos los tags(no recomendado)
+
+    git push --tags
