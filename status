@@ -1,0 +1,39 @@
+[33md5c7fcb[m[33m ([m[1;36mHEAD -> [m[1;32mreset[m[33m, [m[1;32mmaster[m[33m)[m vimos git reset
+[33m0dbb814[m[33m ([m[1;31morigin/master[m[33m)[m subo buenas practicas
+[33mba641e0[m mend
+[33m681b9e0[m  Termino con alias y sumo versiones de escritorio de  git
+[33m9d520cb[m Empiezo con lo  de git stash
+[33m8767a66[m  Agrego tilde en la clase 03
+[33mb80f41d[m Arreglo conflicto merge
+[33m99fb39c[m[33m ([m[1;32mrama-cherry-pick[m[33m)[m Agrego más info sobre cherry-pick
+[33m5db06fc[m Agrego fix de la rama-cherry-pick
+[33m64d8224[m Agrego información sobre git alias
+[33mb07f50b[m FIX: Corrigo falta de borrado de ramas remoto
+[33mc1e73f1[m Agrego como crear una rama y moverse a ella automaticamente
+[33m5145cf6[m Agrego comando de git cherry pick
+[33mbc5c342[m Empiezo con git cherry pick
+[33m3fade36[m Resuelvo el conflicto
+[33m7703866[m  Nueva2  conflicto(rama master)
+[33m4be8478[m  Nueva linea conflicto(rama master)
+[33mf831e3d[m Agrego info sobre abortar el merge
+[33m99b63fe[m  Resolvi el conflicto
+[33mce27bb3[m Otra cosa en rama master
+[33mee10ea1[m Agrego algo nuevo - rama conflicto
+[33m881fa35[m Dejo como estaba el readme
+[33m57233c8[m Agrego correcciones a mi readme
+[33mbb637d5[m Modifico README.md principal
+[33mde3b323[m Agrego info sobre merge
+[33m082ecba[m Repaso ramas
+[33m6559eab[m[33m ([m[1;31morigin/dev[m[33m)[m  Agrego info sobre RAMAS
+[33m0849da7[m Agrego info sobre git status-s
+[33me331354[m Agrego info sobre git commit --amend
+[33md8aa841[m Agregué flag -a a git commit y agrego archivo cualkquiera.md
+[33m4438c87[m Agrego info sobre gitignore y gitkeep
+[33mb076436[m Agrego carpeta clase-03 con gitkeep
+[33m029cce5[m Agrego mas archivos ignorados a gitignore
+[33m6e02ba7[m  Agrego README.md Principal
+[33me1458ff[m Agrego gitignore a mi proyecto
+[33m49eb8af[m  Agrego archivo Clase-02
+[33mc8a3ee6[m Agrego git log--oneline
+[33m5de8e8e[m Agrego nuevos comandos en mi README
+[33md078f68[m Empiezo claseo-01
