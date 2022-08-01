@@ -69,3 +69,8 @@ Una vez seleccionados los commits tengo que seguir los pasos que me dice git.
 >r, reword: Cambiar el mensaje del commit
 >s, squash: Nos permite fusionar commits.
 
+
+## GIT PAGES
+
+
+
