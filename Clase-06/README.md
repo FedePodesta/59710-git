@@ -34,3 +34,7 @@ Integra los cambios e la rama **master** en una nueva rama **rebase** que le fal
 
         git rebase <rama-que-me-quiero-traer>
         git rebase master
+
+Una Vez solucionados los conflictos con
+
+    git add
