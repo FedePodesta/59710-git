@@ -38,3 +38,7 @@ Integra los cambios e la rama **master** en una nueva rama **rebase** que le fal
 Una Vez solucionados los conflictos con
 
     git add
+
+continuo  el rebase con 
+
+    git rebase --continue
