@@ -1,4 +1,5 @@
 # Clase 06
+Fecha 01/08/2022
 
 
 ## Programas para gestionar los repos 
