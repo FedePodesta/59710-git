@@ -43,3 +43,12 @@ Una Vez solucionados los conflictos con
 continuo  el rebase con 
 
     git rebase --continue
+
+
+## GIT ADD (CONTINUACION)
+
+    git add --patch
+
+
+Y : Para confirmar el hunk (pedacito codigo)
+N : Para descartar el hunk (Pedacito codigo)
