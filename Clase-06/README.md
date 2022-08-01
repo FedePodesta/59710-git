@@ -22,4 +22,6 @@
     
 ## GIT REBASE
 
->
+Integra los cambios e la rama **master** en una nueva rama **rebase** que le faltan los comits que en **master** ahora están.
+
+ 
